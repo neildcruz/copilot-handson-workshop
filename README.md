@@ -2,6 +2,12 @@
 
 This project demonstrates various GitHub Copilot features through practical coding challenges.
 
+## Prerequisites
+1. Install Node.js:
+   - Download and install Node.js from [nodejs.org](https://nodejs.org/)
+   - Verify installation by running `node --version` and `npm --version` in your terminal
+2. GitHub Copilot extension enabled in VS Code
+
 ## Project Structure
 ```
 ├── code-completion/
