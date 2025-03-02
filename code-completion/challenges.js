@@ -24,3 +24,8 @@ const users = [
     { name: "Jane", age: 25 },
     { name: "Bob", age: 35 }
 ];
+
+// Test the functions
+console.log("Process Numbers Result:", processNumbers(numbers));
+console.log("Capitalize Words Result:", capitalizeWords(sentence));
+console.log("Transform Users Result:", transformUsers(users));

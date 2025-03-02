@@ -17,3 +17,7 @@ function bubbleSort(arr) {
     }
     return arr;
 }
+
+// Test the functions
+console.log("Fibonacci(7):", fibonacci(7));
+console.log("Bubble Sort:", bubbleSort([64, 34, 25, 12, 22, 11, 90]));
